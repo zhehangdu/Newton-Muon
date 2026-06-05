@@ -109,13 +109,10 @@ Note: the code is designed to run on only **one GPU**, so use `nproc_per_node=1`
 ## Citation
 
 ```bibtex
-@misc{du2026newtonmuonoptimizer,
-  title={The Newton-Muon Optimizer},
-  author={Zhehang Du and Weijie Su},
-  year={2026},
-  eprint={2604.01472},
-  archivePrefix={arXiv},
-  primaryClass={math.OC},
-  url={https://arxiv.org/abs/2604.01472},
+@article{du2026newton,
+  title={The {N}ewton-{M}uon optimizer},
+  author={Du, Zhehang and Su, Weijie},
+  journal={arXiv preprint arXiv:2604.01472},
+  year={2026}
 }
 ```
